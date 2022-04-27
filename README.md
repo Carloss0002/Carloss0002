@@ -3,6 +3,7 @@
 - Estudando nuxt.js(o framework do framework) 💻
 - aprendendo React.js 🙀
 - Tentando trabalhar com front-end 🤓
+- Tentando ser cada vez melhor.
 
 <div>
   <a href="https://https://www.linkedin.com/in/carlos-eduardo-freitas-amorim-13102719b/">
