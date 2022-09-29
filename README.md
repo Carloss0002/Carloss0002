@@ -1,6 +1,6 @@
 <h1>Oi! Eu sou Carlos Eduardo 🤸</h1>
 
-- Estudando nuxt.js(o framework do framework) 💻
+- Visite o meu <a href="https://carlosfrontend.netlify.app/" target="_blank">Portfolio</a>
 - aprendendo React.js 🙀
 - Tentando trabalhar com front-end 🤓
 - Tentando ser cada vez melhor.
