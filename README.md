@@ -4,6 +4,7 @@
 - aprendendo React.js 🙀
 - Tentando trabalhar com front-end 🤓
 - Tentando ser cada vez melhor.
+- Para conferir meus avanços confira minha segunda conta <a href="https://github.com/Carloss0003" target="_blank">Carloss0003</a>
 
 <div>
   <a href="https://https://www.linkedin.com/in/carlos-eduardo-freitas-amorim-13102719b/">
